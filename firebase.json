@@ -1,0 +1,10 @@
+{
+  "firestore": {
+    "databases": [
+      {
+        "database": "activity3-db",
+        "rules": "firestore.rules"
+      }
+    ]
+  }
+}

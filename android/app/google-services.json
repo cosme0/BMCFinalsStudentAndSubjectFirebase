@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439599978286",
+    "project_id": "activity3-app-8f21c",
+    "storage_bucket": "activity3-app-8f21c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439599978286:android:66945b7b60335f59748cbf",
+        "android_client_info": {
+          "package_name": "com.schoolworks.activity3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ-WP4Gxqkox-i3NCh1VYPjJZhs-X_Zwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
